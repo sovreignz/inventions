@@ -1,0 +1,2 @@
+# Mindshot
+Snapshot Analog Intelligence
